@@ -30,27 +30,27 @@ Author: [kaviya752](https://github.com/kaviya752)
 ### 1. Overview Dashboard and Live Bill Clock
 Real-time tracking of current daily usage, active tariff rates, estimated spending, and consumption history.
 
-![Overview Dashboard](screenshots/overview.png)
+<img width="1901" height="901" alt="Screenshot 2026-08-13 230159" src="https://github.com/user-attachments/assets/7a55c29c-1fcf-432a-ac86-5022e5aca1f0" />
 
 ### 2. Time-Series Predictions & Load Forecasting
 24-hour and 7-day predictive models with confidence bands, peak hour identification, and optimal energy-saving windows.
 
-![Energy Forecast](screenshots/predictions.png)
+<img width="1910" height="911" alt="Screenshot 2026-08-13 230219" src="https://github.com/user-attachments/assets/ba66f1aa-faa7-4697-878d-7f1ead8b9137" />
 
 ### 3. Anomaly Detection & Severity Timeline
 Interactive 30-day timeline showing detected consumption anomalies mapped against normal consumption baselines.
 
-![Anomaly Timeline](screenshots/anomalies.png)
+<img width="1902" height="902" alt="Screenshot 2026-08-13 230242" src="https://github.com/user-attachments/assets/e0a82660-4f9f-4a39-9aab-702e87c140eb" />
 
 ### 4. Anomaly Breakdown & Logs
 Detailed anomaly event logs categorizing spikes, dips, peak-hour deviations, and potential hardware faults.
 
-![Anomaly Details](screenshots/anomaly_details.png)
+<img width="1547" height="460" alt="Screenshot 2026-08-13 230302" src="https://github.com/user-attachments/assets/f7807cc0-29ba-481b-9ce7-686dc4683930" />
 
 ### 5. AI Recommendations & Tariff Insights
 Rule-driven and ML-informed insights tailored to Chennai weather patterns and TANGEDCO tariff brackets.
 
-![AI Recommendations](screenshots/recommendations.png)
+<img width="1911" height="907" alt="Screenshot 2026-08-13 230316" src="https://github.com/user-attachments/assets/0d9a2277-0f74-4ab5-8d1e-00403e9189cc" />
 
 ---
 
